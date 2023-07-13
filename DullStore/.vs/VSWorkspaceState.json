@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DullStore",
+    "\\DullStore\\DAO",
+    "\\DullStore\\Entities",
+    "\\DullStore\\Models",
+    "\\DullStore\\Models\\App_Start",
+    "\\DullStore\\obj",
+    "\\packages"
+  ],
+  "SelectedNode": "\\DullStore\\Models\\SanPhamModel.cs",
+  "PreviewInSolutionExplorer": false
+}
